@@ -3,6 +3,8 @@
 ### **`Desenvolvedor FullStack`**
 
 ### Sou um jovem apaixonado por tecnologia e motivado pela inovação. Tenho como foco o desenvolvimento de soluções criativas e colaborativas, transformando ideias em realidade através da programação.
+
+### Entre em contato:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-luz-9a5270280)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguilhermeluz@gmail.com)  
 
