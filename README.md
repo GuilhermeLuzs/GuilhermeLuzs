@@ -7,7 +7,7 @@ Sou um jovem apaixonado por tecnologia e motivado pela inovação. Tenho como fo
 ![GuilhermeLuzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLuzs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLuzs&layout=donut&theme=dark)](https://github.com/GuilhermeLuzs)
 
-## 🖥️ *Tecnologias:*  
+## 🖥️ Tecnologias 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -23,7 +23,7 @@ Sou um jovem apaixonado por tecnologia e motivado pela inovação. Tenho como fo
 ![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Apache Badge](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) 
 
-## 🛠️ *Ferramentas:*  
+## 🛠️ Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white)
