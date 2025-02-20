@@ -7,7 +7,7 @@ Sou um jovem apaixonado por tecnologia e motivado pela inovação. Tenho como fo
 ![GuilhermeLuzs's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeLuzs&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeLuzs&layout=donut&theme=dark)](https://github.com/GuilhermeLuzs)
 
-# 💼 Experiências
+## 💼 Experiências
 
 - 🥈 Medalha de Prata no SENAI Dev Experience 2024 - competição em equipe de programação e inovação tecnológica promovida pela instituição SENAI Taubaté Félix Guisard. 
 - 📱 Desenvolvimento de um sistema web e mobile de gerenciamento e monitoramento com IA para academias, com participação no evento Mundo SENAI 2024.
