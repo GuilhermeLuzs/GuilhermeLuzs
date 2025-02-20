@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Guilherme Luz
 
-**`Desenvolvedor FullStack`**
+### **`Desenvolvedor FullStack`**
 
 ### Sou um jovem apaixonado por tecnologia e motivado pela inovação. Tenho como foco o desenvolvimento de soluções criativas e colaborativas, transformando ideias em realidade através da programação.
 
@@ -9,9 +9,9 @@
 
 ## 💼 Experiências
 
-- 🥈 Medalha de Prata no SENAI Dev Experience 2024 - competição em equipe de programação e inovação tecnológica promovida pela instituição SENAI Taubaté Félix Guisard.
+### - 🥈 Medalha de Prata no SENAI Dev Experience 2024 - competição em equipe de programação e inovação tecnológica promovida pela instituição SENAI Taubaté Félix Guisard.
   
-- 📱 Desenvolvimento de um sistema web e mobile de gerenciamento e monitoramento com IA para academias, com participação no evento Mundo SENAI 2024.
+### - 📱 Desenvolvimento de um sistema web e mobile de gerenciamento e monitoramento com IA para academias, com participação no evento Mundo SENAI 2024.
 
 ## 🖥️ Tecnologias 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
