@@ -1,3 +1,3 @@
-# 👩🏻‍💻 Guilherme Luz
+# 👨🏻‍💻 Guilherme Luz
 
 **`Desenvolvedor FullStack`**
